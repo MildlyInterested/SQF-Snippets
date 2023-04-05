@@ -1,9 +1,13 @@
 /* 
 	For use in ZEUS.
+
+
 	Stops AI from auto engaging in combat etc., they will bassically only move.
 	Once suppressed they will be able to engage again and all other functions are reenabled.
 	AI in vehicles do not get suppressed, only once the vehicles is damaged and they get out they will be suppressed.
 	Written for use with the LAMBS Danger.fsm mod but can be used without.
+
+	
 	Execute the following on group in zeus (execute on target), do not include this comment.
 	Delete debug line.
 */

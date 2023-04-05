@@ -1,6 +1,11 @@
-/*
+/*	
+	For use in EDITOR.
+
+
 	Creates a secondary explosion once IED/Mine/Tripwire is triggered or defused.
 	In editor place code in init field of IED/Mine/Tripwire.
+
+
 	Remove comments in code after copying to init field, the init field does not support comments.
 	Delete debug line and/or hideObjectGlobal if you don't want to hide the mine/IED.
 */
